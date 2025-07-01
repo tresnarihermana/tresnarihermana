@@ -1,5 +1,9 @@
 # 💫About Me :
-My name is Tresnariyadi Hermana from SMKN 7 BALEENDAH.
+Saya siswa SMKN 7 Baleendah yang menempuh Program Keahlian Rekayasa Perangkat Lunak. Saya
+saat ini ini sedang mendalami bahasa pemrogramanan berbasis PHP. Memiliki Pengalaman menjadi
+Proyek Menejer untuk program Project Base Learning yang beranggotakan 4 orang. Saya cukup
+percaya diri dengan kemampuan mendesain UI/UX yang saya miliki, Kemampuan untuk
+mempelajari hal baru dan belajar dari kesalahan yang lalu
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/st.trsnaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tresnariyadi-Hermana) 
